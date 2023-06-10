@@ -34,6 +34,7 @@ hs_err_pid*
 /bazel-out
 
 # dependencies
+curso-angular-testes-unitarios-template-main//node_modules
 curso-angular-testes-unitarios-main/node_modules
 
 /node_modules
