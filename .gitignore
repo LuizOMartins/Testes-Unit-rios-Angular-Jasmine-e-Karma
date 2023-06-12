@@ -82,7 +82,7 @@ testem.log
 Thumbs.db
 
 #spec files
-*.spec.ts
+# *.spec.ts
 
 .vscode
 
